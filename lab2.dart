@@ -1,5 +1,5 @@
 // Kamoliddin Saloxutdinov 230378
-// Friday 14:00
+// Friday 9:00
 
 #include <iostream>
 #include <string>
